@@ -1,0 +1,6 @@
+# python and jupyter notebook .gitignore
+*.DS_Store
+.vscode/
+venv/
+*.pyc
+.ipynb_checkpoints
